@@ -12,7 +12,7 @@ baseurl:  'vinayak96.github.io' #change it according to your repository name
 
 #Profile information
 name: Vinayak Agarwal
-tagline: Full Stack Developer
+tagline: Back-end Developer
 pic: IMG_20180117_173834_408.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "Ashoka University Student. Currently pursuing bachelor's degree in computer science. Interested in working in the domain of Machine Learning and Computer Vision"
   #'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
