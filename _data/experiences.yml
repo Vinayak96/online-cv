@@ -1,23 +1,25 @@
-# - experience:
-#   role: Lead Developer
-#   time: 2015 - Present
-#   company: Startup Hubs, San Francisco
-#   details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-#   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-#   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#   pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-#   <br> <br>
-#   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-#   laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#   architecto beatae vitae dicta sunt explicabo."
-# - experience:
-#   role: Senior Software Engineer
-#   time: 2014 - 2015
-#   company: Google, London
-#   details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-#   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-#   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#   pellentesque eu, pretium quis, sem."
+ - experience:
+   role: Back-end Developer
+   time: Jun '18 - Aug '18
+   company: Staqu Technologies, Gurgaon
+   details: "Created an Automated Scraping model using xgboost classifier for data extraction from online newspaper articles.
+   <br> <br>
+   Achieved 98% accuracy in extracting relevant data and 95% accuracy in classification of relevant data.
+   <br> <br>
+   Created a word document generator for a Django application using python-docx
+   <br> <br>
+   Implemented asynchronous multiprocessing to python scripts to increase data extraction efficiency by 4 times
+   <br> <br>
+   Wrote elasticsearch queries for data aggregations and filtering"
+ - experience:
+   role: Summer Intern
+   time: Jun ‘17 – Aug ’17
+   company: Instruments Research and Development Establishment (IRDE), DRDO, Dehradun
+   details: "Designed a ​scalable Convolutional Neural Network​ in MATLAB for classification of thermal images to track and classify objects.
+   <br> <br>
+   Achieved ​90 percent accuracy​ with a relatively small dataset
+   <br> <br>
+   Developed a Horizon detection model using opencv and MATLAB"
 # - experience:
 #   role: UI Developer
 #   time: 2012 - 2014

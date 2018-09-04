@@ -2,13 +2,13 @@
   name: Python & Django
   level: 95%
 - skill:
-  name: Matlab
+  name: Matlab & openCV
   level: 85%
 - skill:
   name: Theano, Tensorflow, Keras
   level: 85%
 - skill:
-  name: HTML5, CSS and Javascript
+  name: HTML5, CSS & Javascript
   level: 75%
 # - skill:
 #   name: Ruby on Rails
