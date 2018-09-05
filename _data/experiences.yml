@@ -1,4 +1,4 @@
-- experience:
+ - experience:
    role: Back-end Developer
    time: Jun '18 - Aug '18
    company: Staqu Technologies, Gurgaon
@@ -11,7 +11,7 @@
    Implemented asynchronous multiprocessing to python scripts to increase data extraction efficiency by 4 times
    <br> <br>
    Wrote elasticsearch queries for data aggregations and filtering"
-- experience:
+ - experience:
    role: Summer Intern
    time: Jun ‘17 – Aug ’17
    company: Instruments Research and Development Establishment (IRDE), DRDO, Dehradun
@@ -27,4 +27,4 @@
 #   details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
 #   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
 #   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  # pellentesque eu, pretium quis, sem."
+#   pellentesque eu, pretium quis, sem."
