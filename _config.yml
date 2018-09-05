@@ -17,7 +17,6 @@ pic: IMG_20180117_173834_408.jpg  #place a 100x100 picture inside /assets/images
 summary: "Student at Ashoka University. Currently pursuing bachelor's degree in computer science. Born and brought up in Dehradun, I completed my school education
 from St. Joseph's Academy.
 Interested in working in the domain of Machine Learning and Computer Vision.
-Website under maintenance until 18/02/2018
 "
   #'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 #You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -26,7 +25,7 @@ Website under maintenance until 18/02/2018
 
 #sidebar links
 email: vinayak.agarwal_ug18@ashoka.edu.in
-phone: 91-8958530303
+phone: +91-8958530303
 # website:  #do not add http://
 linkedin: vinayak-agarwal
 github: Vinayak96
