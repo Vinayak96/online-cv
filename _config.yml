@@ -14,10 +14,9 @@ baseurl:  'vinayak96.github.io' #change it according to your repository name
 name: Vinayak Agarwal
 tagline: Back-end Developer
 pic: IMG_20180117_173834_408.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Student at Ashoka University. Currently pursuing bachelor's degree in computer science. Born and brought up in Dehradun, I completed my school education
-from St. Joseph's Academy.
-Interested in working in the domain of Machine Learning and Computer Vision.
-"
+summary: "Student at Ashoka University. I am currently pursuing a post-graduate diploma in advanced research and studies in computer science. I was born and brought up in Dehradun, I completed my school education
+from St. Joseph's Academy and my B.Sc. in Computer Science from Ashoka University.
+Interested in working in the domain of Machine Learning and Computer Vision."
   #'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 #You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 #commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
