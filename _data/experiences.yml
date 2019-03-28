@@ -4,7 +4,7 @@
    company: Staqu Technologies, Gurgaon
    details: "Created an Automated Scraping model using xgboost classifier for data extraction from online newspaper articles.
    <br> <br>
-   Achieved 98% accuracy in extracting relevant data and 95% accuracy in classification of relevant data.
+   Achieved 87% accuracy in extracting and classifying data( title, body, image, publication data) from 20000 news articles.
    <br> <br>
    Created a word document generator for a Django application using python-docx
    <br> <br>
@@ -17,7 +17,7 @@
    company: Instruments Research and Development Establishment (IRDE), DRDO, Dehradun
    details: "Designed a ​scalable Convolutional Neural Network​ in MATLAB for classification of thermal images to track and classify objects.
    <br> <br>
-   Achieved ​90 percent accuracy​ with a relatively small dataset
+   Achieved ​90 percent accuracy​ for 3 different targets
    <br> <br>
    Developed a Horizon detection model using opencv and MATLAB"
 # - experience:
