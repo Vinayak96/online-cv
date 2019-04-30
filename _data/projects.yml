@@ -5,7 +5,7 @@
 - project:
   title: People Detection using Faster-RCNN
   link: "https://vinayak96.github.io/people_detection/"
-#   tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: "An implementation of faster-rcnn for people detection in python on the INRIA Dataset"
 # - project:
 #   title: DevStudio
 #   link: "#"
