@@ -2,9 +2,9 @@
 #   description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
 #   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 #
-# - project:
-#   title: Velocity
-#   link: "#hook"
+- project:
+  title: People Detection using Faster-RCNN
+  link: "https://vinayak96.github.io/people_detection/"
 #   tagline: "A responsive website template designed to help startups promote, market and sell their products."
 # - project:
 #   title: DevStudio
